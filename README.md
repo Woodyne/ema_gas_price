@@ -1,3 +1,5 @@
+# Please add me as an Agent Developer [Published] on Discord, my discord username is woodsdorcas#3173
+
 # Transaction GAS EMA agent
 
 ## Description
